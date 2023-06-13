@@ -1,0 +1,6 @@
+﻿  cache.c
+C:\Users\alial\Desktop\School Files\eecs-370-w22\Project4\Project4\cache.c(75,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\alial\Desktop\School Files\eecs-370-w22\Project4\Project4\cache.c(76,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  my_p1s_sim.c
+  Generating Code...
+  Project4.vcxproj -> C:\Users\alial\Desktop\School Files\eecs-370-w22\Project4\x64\Debug\Project4.exe
